@@ -1,7 +1,6 @@
 // calculando precios
-var button = document.getElementById("btn btn-success");
+var button = document.getElementById("price");
 
-function calcularprecio(id) {
-    var precio = document.getElementById("btn btn-success");
-    
+button.onclick = function calcular(price) {
+
 }
